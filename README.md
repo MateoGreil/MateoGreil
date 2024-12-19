@@ -8,7 +8,7 @@ Ruby, Python, Go, C, C++, JavaScript, AWS, Docker, ...
 
 ## 🚀 Personnal Projects 
 
-[homeassistant-comwatt](https://github.com/MateoGreil/homeassistant-comwatt)
+[![homeassistant-comwatt Card](https://github-readme-stats.vercel.app/api/pin/?username=MateoGreil&repo=homeassistant-comwatt)](https://github.com/MateoGreil/homeassistant-comwatt)
 - An integration for Home Assistant that allows you to monitor and control your Comwatt devices.
 - Fetches real-time data from Comwatt API and provides sensors for power consumption, production, and more.
 - Enables you to create automations and track your energy usage directly from Home Assistant.
