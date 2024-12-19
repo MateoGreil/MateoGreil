@@ -3,6 +3,8 @@
 I don't have a particular favorite programming language; I appreciate what can be achieved with each of them. I'm a touche-à-tout who enjoys discovering new things.
 I like open-source and libre projects ❤️
 
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/mat%C3%A9o-g-19a8ab171/)
+
 ## 🔧 Technologies & Tools
 Ruby, Python, Go, C, C++, JavaScript, AWS, Docker, ...
 
