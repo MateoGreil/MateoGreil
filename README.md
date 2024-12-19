@@ -14,11 +14,11 @@ Ruby, Python, Go, C, C++, JavaScript, AWS, Docker, ...
 - Enables you to create automations and track your energy usage directly from Home Assistant.
 - Technologies used: Python, Home Assistant, Comwatt API
 
-[xapi-go](https://github.com/mateoGreil/xapi-go)
+[![xapi-go Card](https://github-readme-stats.vercel.app/api/pin/?username=MateoGreil&repo=xapi-go)](https://github.com/MateoGreil/xapi-go)
 - A Go library that implements the XAPI protocol
 - Not really finished: does not implement all the API features.
 
-[python-dvr](https://github.com/MateoGreil/python-dvr)
+[![python-dvr Card](https://github-readme-stats.vercel.app/api/pin/?username=MateoGreil&repo=python-dvr)](https://github.com/MateoGreil/python-dvr)
 - Reverse-engineered the [application](https://apps.apple.com/fr/app/maginon-afs-1/id1438744569?l=en) of a pet feeder distributor bought at 15e at Action (Maginon is just a re-seller of chinese products), to gain control without using their xmeye API .
 - Discovered that the pet feeder had weak default credentials ("admin:admin") and could not be changed through the manufacturer's application.
 - Found that anyone with the serial number of the pet feeder could access the camera via the "By Device" section of the [xmeye.net](https://www.xmeye.net/index) website.
