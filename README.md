@@ -6,9 +6,9 @@ I like open-source and libre projects ❤️
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/mat%C3%A9o-g-19a8ab171/)
 
 ## 🚀 Projects 
-🏠 Developed a [Home Assistant integration](https://github-readme-stats.vercel.app/api/pin/?username=MateoGreil&repo=homeassistant-comwatt) that allows users to monitor and control their Comwatt devices, fetching real-time data and providing sensors for power consumption and production. 
+🏠 Developed a [Home Assistant integration](https://github.com/MateoGreil/homeassistant-comwatt) that allows users to monitor and control their Comwatt devices, fetching real-time data and providing sensors for power consumption and production. 
 
-📚 Created a [Go library](https://github-readme-stats.vercel.app/api/pin/?username=MateoGreil&repo=xapi-go) that implements the XAPI protocol, although it is not fully finished and does not implement all the API features due to time constraints. 
+📚 Created a [Go library](https://github.com/MateoGreil/xapi-go) that implements the XAPI protocol, although it is not fully finished and does not implement all the API features due to time constraints. 
 
 🐾 [Reverse-engineered](https://github.com/MateoGreil/python-dvr/commit/822d07c2944394064bc2f02f02739d379773c6dd) a [pet feeder distributor's application](https://gist.github.com/MateoGreil/cd821a440e4b9e2cdc89a663e7038544) to gain control without using their API, and add this feature to an [open-source repo](https://github.com/OpenIPC/python-dvr).
 
