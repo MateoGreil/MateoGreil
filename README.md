@@ -21,4 +21,4 @@ I don't have a particular favorite programming language; I appreciate what can b
 
 🖥️ At [42 Network](https://github.com/42-network), worked for 5 months with Ruby On Rails, PostgreSQL, Django, Flask, JS, Docker, Sentry, and NewRelic on self-hosted servers to deliver solutions. 
 
-Made with 🤖
+<small>Made with 🤖</small>
