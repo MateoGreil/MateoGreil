@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌐 I like open-source and libre projects ❤️
+🌐 I like open-source and free projects ❤️
 
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/mat%C3%A9o-g-19a8ab171/)
 
