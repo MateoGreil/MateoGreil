@@ -20,5 +20,4 @@
 🖥️ At [42 Network](https://github.com/42-network), worked for 5 months with Ruby On Rails, PostgreSQL, Django, Flask, JS, Docker, Sentry, and NewRelic on self-hosted servers to deliver solutions. 
 
 *Made with 🤖*
-
 ![](https://hit.yhype.me/github/profile?account_id=29238369)
