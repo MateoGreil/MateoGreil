@@ -17,7 +17,7 @@
 
 🌾 At [Ekylibre](https://github.com/ekylibre/), spent 9 months contributing to the development of an open-source farm management software using Ruby On Rails, PostgreSQL, PostGIS, Docker, and Kibana. 
 
-🖥️ At [42 Network](https://github.com/42-network), worked for 5 months with Ruby On Rails, PostgreSQL, Django, Flask, JS, Docker, Sentry, and NewRelic on self-hosted servers to deliver solutions. 
+🖥️ At [42 Network](https://github.com/42-network), worked for 10 months with Ruby On Rails, PostgreSQL, Django, Flask, JS, Docker, Sentry, and NewRelic on self-hosted servers to deliver solutions. 
 
 *Made with 🤖*
 ![](https://hit.yhype.me/github/profile?account_id=29238369)
