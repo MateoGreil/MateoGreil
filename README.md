@@ -13,7 +13,7 @@
 
 🐾 [Reverse-engineered](https://github.com/MateoGreil/python-dvr/commit/822d07c2944394064bc2f02f02739d379773c6dd) a [pet feeder distributor's application](https://gist.github.com/MateoGreil/cd821a440e4b9e2cdc89a663e7038544) to gain control without using their API, and add this feature to an [open-source repo](https://github.com/OpenIPC/python-dvr).
 
-🔌 At [Electra](https://github.com/Go-Electra/), worked for 3 years, utilizing various technologies and gaining experience with multiple protocols in the EV industry, such as OCPP, OPCP, OICP, OCPI, MQTT.
+🔌 At [Electra](https://github.com/Go-Electra/), worked for 3 years, utilizing various technologies and gaining experience with multiple protocols in the EV industry, such as OCPP, OPCP, OICP, OCPI, OPCP, MQTT.
 
 💅 During 1 year and few months at [Wecasa](https://github.com/wecasa/), worked with Ruby On Rails, MySQL, Docker, Airbrake, NewRelic, and CircleCI to develop and maintain their web application. 
 
